@@ -1,3 +1,5 @@
-# pizza-sales-dashboard 🍕
-summarization of data for a pizzeria for around 50 k columns by excel using pivot tables
+# 🍕 pizza-sales-dashboard
+
+**Summarization of data for a pizzeria (~50K rows) using Excel pivot tables.**
+
 ![Dashboard Preview](pizza_dashboard.png)
