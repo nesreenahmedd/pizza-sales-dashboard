@@ -1,43 +1,66 @@
-# 🍕 pizza-sales-dashboard
+# 🍕 Pizza Sales Dashboard
 
-**Summarization of data for a pizzeria (~50K rows) using Excel pivot tables.**
+This project is a **Data Analysis and Visualization** dashboard for a fictional pizza restaurant. It was built using **Microsoft Excel** and showcases various KPIs and insights to support business decision-making.
+
+---
+
+## 📊 Dashboard Highlights:
+
+- 📅 **Monthly sales performance**
+- 🧾 **Top-selling pizza categories & sizes**
+- ⏰ **Peak order hours**
+- 📍 **Best-selling days**
+- 💰 **Revenue trends**
+- 🧠 Interactive filters (slicers) for dynamic exploration
+
+---
+
+## 🛠 Tools Used:
+- **Microsoft Excel**
+- Pivot Tables
+- Charts
+- Slicers
+- Power Query (optional)
+  
+---
+
+## 📁 Dataset:
+The dataset includes:
+- Order details (date, time, quantity)
+- Pizza categories & types
+- Prices and sales amount
+
+_Source: Fictional dataset for learning purposes_
+
+---
+
+## 🎯 Goal:
+To simulate a real-world business scenario and practice:
+- Data cleaning
+- Data aggregation
+- Visualization & storytelling
+
+---
 
 ![Pizza Dashboard](https://github.com/user-attachments/assets/b450806e-3481-4b6a-ac7c-e814c683c9fa)
 
 
 
----
-
-## 📁 Project Structure
-
-- `Pizza_Dataset.xlsx` → Original sales dataset containing order-level data
-- `pizza_dashbord.png` → Dashboard image summarizing key metrics visually
-- `README.md` → Project documentation (this file)
+## 💡 Insights:
+- The most popular pizza size is **Large**
+- Peak sales hours are between **6 PM to 8 PM**
+- **Saturday** is the highest sales day
+- **Classic and Veggie** categories perform best
 
 ---
 
-## 🧰 Tools Used
-
-- **Microsoft Excel** – for data cleaning, transformation, and visualization using Pivot Tables
-- **Git & GitHub** – for version control and project sharing
-
----
-
-## 📊 Dashboard KPIs
-
-The dashboard includes the following key performance indicators:
-
-- ✅ **Total Orders**
-- 💰 **Total Revenue**
-- 🍕 **Top-Selling Pizza Types**
-- 📆 **Monthly & Daily Sales Trends**
-- 🕐 **Peak Order Hours**
+## 🧠 What I Learned:
+- Designing a visually clean and insightful dashboard
+- Summarizing large datasets into meaningful insights
+- Using slicers and dynamic charts to improve interactivity
 
 ---
 
-## 🧠 Insights
-
-- **Weekend sales** (especially on **Fridays and Saturdays**) are consistently higher than weekdays
-- **"Classic Deluxe"** and **"Barbecue Chicken"** are the top-performing pizza types
-- The busiest period for orders is between **6 PM and 9 PM**, showing strong demand during dinner hours
-- Seasonal peaks are observed in months like **July** and **December**
+## 📌 Status:
+✅ Completed  
+📈 Ready to present / share
