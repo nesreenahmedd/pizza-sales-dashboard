@@ -2,7 +2,8 @@
 
 **Summarization of data for a pizzeria (~50K rows) using Excel pivot tables.**
 
-![Dashboard Preview](pizza_dashbord.png)
+![Pizza Dashboard](https://github.com/user-attachments/assets/b450806e-3481-4b6a-ac7c-e814c683c9fa)
+
 
 
 ---
